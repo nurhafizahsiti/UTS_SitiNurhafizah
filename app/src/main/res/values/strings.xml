@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="jarijari">Masukkan Jari-jari Tabung</string>
+    <string name="tinggi_tabung">Masukkan Tinggi Tabung</string>
+    <string name="volume_tabung">Menghitung Volume Tabung</string>
+    <string name="luas_permukaan_tabung">Menghitung Luas Permukaan Tabung</string>
+    <string name="textview">Hasil</string>
+</resources>
